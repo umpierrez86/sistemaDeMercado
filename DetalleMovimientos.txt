@@ -1,0 +1,7 @@
+20/06/2023 20:46:01
+3#anana#puesto 1#C#493#40
+4#anana#puesto 1#C#123#50
+5#anana#puesto 1#V#1#1
+6#manzana#puesto 1#C#12#13
+
+La cantidad de movimientos fueron: 5
